@@ -1,0 +1,46 @@
+.count h1{
+  text-align: center;
+}
+
+
+.b{
+  display: flex;
+  column-gap: 20px;
+  height: 30px;
+ margin-left: 510px;
+}
+.count h2{
+  text-decoration: underline;
+  text-align: center;
+}
+.b1{
+  background-color: rgb(235, 184, 90);
+  border-radius: 5px;
+}
+.b2{
+  background-color: rgb(240, 238, 122);
+  border-radius: 5px;
+}
+.b3{
+  background-color: rgb(114, 195, 241);
+  border-radius: 5px;
+}
+
+
+
+.c h2{
+  text-decoration: underline;
+  text-align: center;
+}
+.c input{
+ height: 25px;
+ border-radius: 5px;background-color: rgb(173, 177, 177);   
+ margin-left: 600px;
+}
+.c1 h3{
+  text-align: center;
+}
+.c1 p{
+  text-decoration: underline;
+  text-align: center;
+}
